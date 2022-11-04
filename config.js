@@ -1,7 +1,7 @@
 module.exports = {
   profile: {
-    ownerName: "", // defult: AiDarkEzio
-    ownerNumb: "", // defult: 94761539856
+    ownerName: "", // defult: Salman Ali
+    ownerNumb: "", // defult: 923231582002
     botName: "", // defult: Whats Bot MD
   },
   reply: {
@@ -26,8 +26,8 @@ module.exports = {
   },
   auto: {
     chat: {
-      group: false, // Chat Bot In Group | u can set true or false
-      inbox: false, // chat bot in inbox | u can set true or false
+      group: true, // Chat Bot In Group | u can set true or false
+      inbox: true, // chat bot in inbox | u can set true or false
     },
     reply: {
       sticker: false, // Boolean | ===== It not created now ======
